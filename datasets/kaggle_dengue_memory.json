@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "dengue_Andhra_Pradesh_2019",
+    "text": "In Andhra Pradesh, 5286 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Andhra Pradesh",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Andhra_Pradesh_2020",
+    "text": "In Andhra Pradesh, 925 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Andhra Pradesh",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Andhra_Pradesh_2021",
+    "text": "In Andhra Pradesh, 4760 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Andhra Pradesh",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Andhra_Pradesh_2022",
+    "text": "In Andhra Pradesh, 6391 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Andhra Pradesh",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Andhra_Pradesh_2023",
+    "text": "In Andhra Pradesh, 6453 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Andhra Pradesh",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Andhra_Pradesh_2024",
+    "text": "In Andhra Pradesh, 1836 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Andhra Pradesh",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Arunachal_Pradesh_2019",
+    "text": "In Arunachal Pradesh, 123 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Arunachal Pradesh",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Arunachal_Pradesh_2020",
+    "text": "In Arunachal Pradesh, 1 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Arunachal Pradesh",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Arunachal_Pradesh_2021",
+    "text": "In Arunachal Pradesh, 7 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Arunachal Pradesh",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Arunachal_Pradesh_2022",
+    "text": "In Arunachal Pradesh, 114 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Arunachal Pradesh",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Arunachal_Pradesh_2023",
+    "text": "In Arunachal Pradesh, 130 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Arunachal Pradesh",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Arunachal_Pradesh_2024",
+    "text": "In Arunachal Pradesh, 6 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Arunachal Pradesh",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Assam_2019",
+    "text": "In Assam, 196 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Assam",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Assam_2020",
+    "text": "In Assam, 33 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Assam",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Assam_2021",
+    "text": "In Assam, 103 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Assam",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Assam_2022",
+    "text": "In Assam, 1826 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Assam",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Assam_2023",
+    "text": "In Assam, 8208 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Assam",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Assam_2024",
+    "text": "In Assam, 270 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Assam",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Bihar_2019",
+    "text": "In Bihar, 6712 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Bihar",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Bihar_2020",
+    "text": "In Bihar, 493 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Bihar",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Bihar_2021",
+    "text": "In Bihar, 633 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Bihar",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Bihar_2022",
+    "text": "In Bihar, 13972 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Bihar",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Bihar_2023",
+    "text": "In Bihar, 20224 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Bihar",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Bihar_2024",
+    "text": "In Bihar, 7 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Bihar",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chattisgarh_2019",
+    "text": "In Chattisgarh, 722 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Chattisgarh",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chattisgarh_2020",
+    "text": "In Chattisgarh, 57 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Chattisgarh",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chattisgarh_2021",
+    "text": "In Chattisgarh, 1086 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Chattisgarh",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chattisgarh_2022",
+    "text": "In Chattisgarh, 2679 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Chattisgarh",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chattisgarh_2023",
+    "text": "In Chattisgarh, 2412 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Chattisgarh",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chattisgarh_2024",
+    "text": "In Chattisgarh, 160 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Chattisgarh",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Goa_2019",
+    "text": "In Goa, 992 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Goa",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Goa_2020",
+    "text": "In Goa, 376 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Goa",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Goa_2021",
+    "text": "In Goa, 649 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Goa",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Goa_2022",
+    "text": "In Goa, 443 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Goa",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Goa_2023",
+    "text": "In Goa, 512 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Goa",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Goa_2024",
+    "text": "In Goa, 177 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Goa",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Gujarat_2019",
+    "text": "In Gujarat, 18219 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Gujarat",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Gujarat_2020",
+    "text": "In Gujarat, 1564 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Gujarat",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Gujarat_2021",
+    "text": "In Gujarat, 10983 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Gujarat",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Gujarat_2022",
+    "text": "In Gujarat, 6682 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Gujarat",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Gujarat_2023",
+    "text": "In Gujarat, 7222 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Gujarat",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Gujarat_2024",
+    "text": "In Gujarat, 893 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Gujarat",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Haryana_2019",
+    "text": "In Haryana, 1207 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Haryana",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Haryana_2020",
+    "text": "In Haryana, 1377 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Haryana",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Haryana_2021",
+    "text": "In Haryana, 11835 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Haryana",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Haryana_2022",
+    "text": "In Haryana, 8996 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Haryana",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Haryana_2023",
+    "text": "In Haryana, 8081 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Haryana",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Haryana_2024",
+    "text": "In Haryana, 69 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Haryana",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Himachal_Pradesh_2019",
+    "text": "In Himachal Pradesh, 344 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Himachal Pradesh",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Himachal_Pradesh_2020",
+    "text": "In Himachal Pradesh, 21 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Himachal Pradesh",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Himachal_Pradesh_2021",
+    "text": "In Himachal Pradesh, 349 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Himachal Pradesh",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Himachal_Pradesh_2022",
+    "text": "In Himachal Pradesh, 3326 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Himachal Pradesh",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Himachal_Pradesh_2023",
+    "text": "In Himachal Pradesh, 1989 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Himachal Pradesh",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Himachal_Pradesh_2024",
+    "text": "In Himachal Pradesh, 12 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Himachal Pradesh",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_J_&_K_2019",
+    "text": "In J & K, 439 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "J & K",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_J_&_K_2020",
+    "text": "In J & K, 53 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "J & K",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_J_&_K_2021",
+    "text": "In J & K, 1709 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "J & K",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_J_&_K_2022",
+    "text": "In J & K, 8269 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "J & K",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_J_&_K_2023",
+    "text": "In J & K, 6403 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "J & K",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_J_&_K_2024",
+    "text": "In J & K, 4 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "J & K",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Jharkhand_2019",
+    "text": "In Jharkhand, 825 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Jharkhand",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Jharkhand_2020",
+    "text": "In Jharkhand, 79 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Jharkhand",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Jharkhand_2021",
+    "text": "In Jharkhand, 220 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Jharkhand",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Jharkhand_2022",
+    "text": "In Jharkhand, 290 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Jharkhand",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Jharkhand_2023",
+    "text": "In Jharkhand, 2578 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Jharkhand",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Jharkhand_2024",
+    "text": "In Jharkhand, 76 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Jharkhand",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Karnataka_2019",
+    "text": "In Karnataka, 16986 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Karnataka",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Karnataka_2020",
+    "text": "In Karnataka, 3823 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Karnataka",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Karnataka_2021",
+    "text": "In Karnataka, 7393 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Karnataka",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Karnataka_2022",
+    "text": "In Karnataka, 9889 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Karnataka",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Karnataka_2023",
+    "text": "In Karnataka, 19300 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Karnataka",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Karnataka_2024",
+    "text": "In Karnataka, 5976 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Karnataka",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Kerala_2019",
+    "text": "In Kerala, 4652 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Kerala",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Kerala_2020",
+    "text": "In Kerala, 4399 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Kerala",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Kerala_2021",
+    "text": "In Kerala, 3251 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Kerala",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Kerala_2022",
+    "text": "In Kerala, 4432 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Kerala",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Kerala_2023",
+    "text": "In Kerala, 17426 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Kerala",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Kerala_2024",
+    "text": "In Kerala, 8115 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Kerala",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Lakshadweep_2019",
+    "text": "In Lakshadweep, 0 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Lakshadweep",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Lakshadweep_2020",
+    "text": "In Lakshadweep, 0 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Lakshadweep",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Lakshadweep_2021",
+    "text": "In Lakshadweep, 1 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Lakshadweep",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Lakshadweep_2022",
+    "text": "In Lakshadweep, 67 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Lakshadweep",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Lakshadweep_2023",
+    "text": "In Lakshadweep, 445 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Lakshadweep",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Lakshadweep_2024",
+    "text": "In Lakshadweep, 384 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Lakshadweep",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Madhya_Pradesh_2019",
+    "text": "In Madhya Pradesh, 4189 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Madhya Pradesh",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Madhya_Pradesh_2020",
+    "text": "In Madhya Pradesh, 806 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Madhya Pradesh",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Madhya_Pradesh_2021",
+    "text": "In Madhya Pradesh, 15592 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Madhya Pradesh",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Madhya_Pradesh_2022",
+    "text": "In Madhya Pradesh, 3318 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Madhya Pradesh",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Madhya_Pradesh_2023",
+    "text": "In Madhya Pradesh, 6979 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Madhya Pradesh",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Madhya_Pradesh_2024",
+    "text": "In Madhya Pradesh, 742 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Madhya Pradesh",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Meghalaya_2019",
+    "text": "In Meghalaya, 82 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Meghalaya",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Meghalaya_2020",
+    "text": "In Meghalaya, 4 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Meghalaya",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Meghalaya_2021",
+    "text": "In Meghalaya, 129 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Meghalaya",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Meghalaya_2022",
+    "text": "In Meghalaya, 26 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Meghalaya",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Meghalaya_2023",
+    "text": "In Meghalaya, 114 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Meghalaya",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Meghalaya_2024",
+    "text": "In Meghalaya, 37 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Meghalaya",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Maharashtra_2019",
+    "text": "In Maharashtra, 14907 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Maharashtra",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Maharashtra_2020",
+    "text": "In Maharashtra, 3356 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Maharashtra",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Maharashtra_2021",
+    "text": "In Maharashtra, 12720 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Maharashtra",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Maharashtra_2022",
+    "text": "In Maharashtra, 8578 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Maharashtra",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Maharashtra_2023",
+    "text": "In Maharashtra, 19034 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Maharashtra",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Maharashtra_2024",
+    "text": "In Maharashtra, 3173 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Maharashtra",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Manipur_2019",
+    "text": "In Manipur, 359 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Manipur",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Manipur_2020",
+    "text": "In Manipur, 37 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Manipur",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Manipur_2021",
+    "text": "In Manipur, 203 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Manipur",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Manipur_2022",
+    "text": "In Manipur, 503 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Manipur",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Manipur_2023",
+    "text": "In Manipur, 2548 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Manipur",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Manipur_2024",
+    "text": "In Manipur, 64 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Manipur",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Mizoram_2019",
+    "text": "In Mizoram, 42 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Mizoram",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Mizoram_2020",
+    "text": "In Mizoram, 67 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Mizoram",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Mizoram_2021",
+    "text": "In Mizoram, 83 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Mizoram",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Mizoram_2022",
+    "text": "In Mizoram, 1868 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Mizoram",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Mizoram_2023",
+    "text": "In Mizoram, 2060 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Mizoram",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Mizoram_2024",
+    "text": "In Mizoram, 234 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Mizoram",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Nagaland_2019",
+    "text": "In Nagaland, 8 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Nagaland",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Nagaland_2020",
+    "text": "In Nagaland, 1 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Nagaland",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Nagaland_2021",
+    "text": "In Nagaland, 24 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Nagaland",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Nagaland_2022",
+    "text": "In Nagaland, 154 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Nagaland",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Nagaland_2023",
+    "text": "In Nagaland, 4943 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Nagaland",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Nagaland_2024",
+    "text": "In Nagaland, 4 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Nagaland",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Odisha_2019",
+    "text": "In Odisha, 3758 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Odisha",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Odisha_2020",
+    "text": "In Odisha, 496 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Odisha",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Odisha_2021",
+    "text": "In Odisha, 7548 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Odisha",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Odisha_2022",
+    "text": "In Odisha, 7063 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Odisha",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Odisha_2023",
+    "text": "In Odisha, 12845 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Odisha",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Odisha_2024",
+    "text": "In Odisha, 322 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Odisha",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Punjab_2019",
+    "text": "In Punjab, 10289 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Punjab",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Punjab_2020",
+    "text": "In Punjab, 8435 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Punjab",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Punjab_2021",
+    "text": "In Punjab, 23389 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Punjab",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Punjab_2022",
+    "text": "In Punjab, 11030 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Punjab",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Punjab_2023",
+    "text": "In Punjab, 13687 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Punjab",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Punjab_2024",
+    "text": "In Punjab, 162 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Punjab",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Rajasthan_2019",
+    "text": "In Rajasthan, 13706 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Rajasthan",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Rajasthan_2020",
+    "text": "In Rajasthan, 2023 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Rajasthan",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Rajasthan_2021",
+    "text": "In Rajasthan, 20749 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Rajasthan",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Rajasthan_2022",
+    "text": "In Rajasthan, 13491 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Rajasthan",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Rajasthan_2023",
+    "text": "In Rajasthan, 13924 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Rajasthan",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Rajasthan_2024",
+    "text": "In Rajasthan, 1018 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Rajasthan",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Sikkim_2019",
+    "text": "In Sikkim, 444 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Sikkim",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Sikkim_2020",
+    "text": "In Sikkim, 11 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Sikkim",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Sikkim_2021",
+    "text": "In Sikkim, 243 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Sikkim",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Sikkim_2022",
+    "text": "In Sikkim, 264 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Sikkim",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Sikkim_2023",
+    "text": "In Sikkim, 311 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Sikkim",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Sikkim_2024",
+    "text": "In Sikkim, 59 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Sikkim",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tamil_Nadu_2019",
+    "text": "In Tamil Nadu, 8527 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Tamil Nadu",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tamil_Nadu_2020",
+    "text": "In Tamil Nadu, 2410 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Tamil Nadu",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tamil_Nadu_2021",
+    "text": "In Tamil Nadu, 6039 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Tamil Nadu",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tamil_Nadu_2022",
+    "text": "In Tamil Nadu, 6430 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Tamil Nadu",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tamil_Nadu_2023",
+    "text": "In Tamil Nadu, 9121 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Tamil Nadu",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tamil_Nadu_2024",
+    "text": "In Tamil Nadu, 4778 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Tamil Nadu",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tripura_2019",
+    "text": "In Tripura, 114 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Tripura",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tripura_2020",
+    "text": "In Tripura, 24 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Tripura",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tripura_2021",
+    "text": "In Tripura, 349 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Tripura",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tripura_2022",
+    "text": "In Tripura, 56 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Tripura",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tripura_2023",
+    "text": "In Tripura, 1447 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Tripura",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Tripura_2024",
+    "text": "In Tripura, 257 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Tripura",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Telangana_2019",
+    "text": "In Telangana, 13331 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Telangana",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Telangana_2020",
+    "text": "In Telangana, 2173 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Telangana",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Telangana_2021",
+    "text": "In Telangana, 7135 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Telangana",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Telangana_2022",
+    "text": "In Telangana, 8972 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Telangana",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Telangana_2023",
+    "text": "In Telangana, 8016 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Telangana",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Telangana_2024",
+    "text": "In Telangana, 1078 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Telangana",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttar_Pradesh_2019",
+    "text": "In Uttar Pradesh, 10557 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Uttar Pradesh",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttar_Pradesh_2020",
+    "text": "In Uttar Pradesh, 3715 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Uttar Pradesh",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttar_Pradesh_2021",
+    "text": "In Uttar Pradesh, 29750 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Uttar Pradesh",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttar_Pradesh_2022",
+    "text": "In Uttar Pradesh, 19821 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Uttar Pradesh",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttar_Pradesh_2023",
+    "text": "In Uttar Pradesh, 35402 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Uttar Pradesh",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttar_Pradesh_2024",
+    "text": "In Uttar Pradesh, 341 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Uttar Pradesh",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttrakhand_2019",
+    "text": "In Uttrakhand, 10622 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Uttrakhand",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttrakhand_2020",
+    "text": "In Uttrakhand, 76 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Uttrakhand",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttrakhand_2021",
+    "text": "In Uttrakhand, 738 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Uttrakhand",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttrakhand_2022",
+    "text": "In Uttrakhand, 2337 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Uttrakhand",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttrakhand_2023",
+    "text": "In Uttrakhand, 4320 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Uttrakhand",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Uttrakhand_2024",
+    "text": "In Uttrakhand, 0 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Uttrakhand",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_West_Bengal*_2019",
+    "text": "In West Bengal*, 0 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "West Bengal*",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_West_Bengal*_2020",
+    "text": "In West Bengal*, 5166 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "West Bengal*",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_West_Bengal*_2021",
+    "text": "In West Bengal*, 8264 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "West Bengal*",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_West_Bengal*_2022",
+    "text": "In West Bengal*, 67271 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "West Bengal*",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_West_Bengal*_2023",
+    "text": "In West Bengal*, 30683 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "West Bengal*",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_West_Bengal*_2024",
+    "text": "In West Bengal*, 441 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "West Bengal*",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_A&_N_Island_2019",
+    "text": "In A& N Island, 168 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "A& N Island",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_A&_N_Island_2020",
+    "text": "In A& N Island, 98 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "A& N Island",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_A&_N_Island_2021",
+    "text": "In A& N Island, 175 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "A& N Island",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_A&_N_Island_2022",
+    "text": "In A& N Island, 1014 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "A& N Island",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_A&_N_Island_2023",
+    "text": "In A& N Island, 846 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "A& N Island",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_A&_N_Island_2024",
+    "text": "In A& N Island, 37 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "A& N Island",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chandigarh_2019",
+    "text": "In Chandigarh, 286 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Chandigarh",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chandigarh_2020",
+    "text": "In Chandigarh, 265 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Chandigarh",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chandigarh_2021",
+    "text": "In Chandigarh, 1596 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Chandigarh",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chandigarh_2022",
+    "text": "In Chandigarh, 910 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Chandigarh",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chandigarh_2023",
+    "text": "In Chandigarh, 454 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Chandigarh",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Chandigarh_2024",
+    "text": "In Chandigarh, 0 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Chandigarh",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Delhi_2019",
+    "text": "In Delhi, 5077 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Delhi",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Delhi_2020",
+    "text": "In Delhi, 1269 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Delhi",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Delhi_2021",
+    "text": "In Delhi, 13089 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Delhi",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Delhi_2022",
+    "text": "In Delhi, 10183 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Delhi",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Delhi_2023",
+    "text": "In Delhi, 16866 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Delhi",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Delhi_2024",
+    "text": "In Delhi, 381 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Delhi",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_D&N_Haveli_2019",
+    "text": "In D&N Haveli, 1491 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "D&N Haveli",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_D&N_Haveli_2020",
+    "text": "In D&N Haveli, 248 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "D&N Haveli",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_D&N_Haveli_2021",
+    "text": "In D&N Haveli, 547 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "D&N Haveli",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_D&N_Haveli_2022",
+    "text": "In D&N Haveli, 685 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "D&N Haveli",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_D&N_Haveli_2023",
+    "text": "In D&N Haveli, 1178 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "D&N Haveli",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_D&N_Haveli_2024",
+    "text": "In D&N Haveli, 88 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "D&N Haveli",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Daman_&_Diu_2019",
+    "text": "In Daman & Diu, 625 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Daman & Diu",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Daman_&_Diu_2020",
+    "text": "In Daman & Diu, 71 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Daman & Diu",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Daman_&_Diu_2021",
+    "text": "In Daman & Diu, 279 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Daman & Diu",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Daman_&_Diu_2022",
+    "text": "In Daman & Diu, 228 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Daman & Diu",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Daman_&_Diu_2023",
+    "text": "In Daman & Diu, 284 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Daman & Diu",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Daman_&_Diu_2024",
+    "text": "In Daman & Diu, 16 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Daman & Diu",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Puduchery_2019",
+    "text": "In Puduchery, 2030 dengue cases were reported in the year 2019.",
+    "disease": "dengue",
+    "region": "Puduchery",
+    "date": "2019-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Puduchery_2020",
+    "text": "In Puduchery, 633 dengue cases were reported in the year 2020.",
+    "disease": "dengue",
+    "region": "Puduchery",
+    "date": "2020-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Puduchery_2021",
+    "text": "In Puduchery, 1625 dengue cases were reported in the year 2021.",
+    "disease": "dengue",
+    "region": "Puduchery",
+    "date": "2021-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Puduchery_2022",
+    "text": "In Puduchery, 1673 dengue cases were reported in the year 2022.",
+    "disease": "dengue",
+    "region": "Puduchery",
+    "date": "2022-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Puduchery_2023",
+    "text": "In Puduchery, 2790 dengue cases were reported in the year 2023.",
+    "disease": "dengue",
+    "region": "Puduchery",
+    "date": "2023-01-01",
+    "source": "Kaggle",
+    "severity_level": "high",
+    "data_type": "case_statistics"
+  },
+  {
+    "id": "dengue_Puduchery_2024",
+    "text": "In Puduchery, 874 dengue cases were reported in the year 2024.",
+    "disease": "dengue",
+    "region": "Puduchery",
+    "date": "2024-01-01",
+    "source": "Kaggle",
+    "severity_level": "medium",
+    "data_type": "case_statistics"
+  }
+]
